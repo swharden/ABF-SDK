@@ -1,0 +1,1 @@
+Contents of `ABF_FileSupportPack.zip` which is distributed with pClamp 11.2 (downloadable from Molecular Devices website)

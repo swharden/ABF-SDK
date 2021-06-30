@@ -1,0 +1,1 @@
+These markdown pages were generated from official ABFFIO header contents as part of the [AbfSharp](https://github.com/swharden/ABFsharp) project.
