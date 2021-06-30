@@ -1,4 +1,4 @@
-Contents of `ABF_FileSupportPack.zip` which is distributed with pClamp 11.2 (downloadable from Molecular Devices website)
+This folder contains files from the _ABF File Support Pack_ which is distributed with pClamp (downloadable from Molecular Devices website)
 
 ```c
 // Function signatures from ABFFILES.H
