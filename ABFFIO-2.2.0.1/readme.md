@@ -1,8 +1,7 @@
 Contents of `ABF_FileSupportPack.zip` which is distributed with pClamp 11.2 (downloadable from Molecular Devices website)
 
-```cs
-
 ### ABFFILES.H
+
 ```c
 bool ABF_BuildErrorText(int nErrorNum, const char *szFileName, char *sTxtBuf, UINT uMaxLen);
 bool ABF_CalculateCRC(int nFile, int *pnError);
