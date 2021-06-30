@@ -5,6 +5,7 @@ This repository is a collection of code and resources for working with Axon Bina
 ### Resources
 * [ABF1 file format](https://swharden.com/pyabf/abf1-file-format/)
 * [ABF2 file format](https://swharden.com/pyabf/abf2-file-format/)
+* [AbfSharp](https://swharden.com/AbfSharp)
 * [pyABF: sample data](https://github.com/swharden/pyABF/tree/master/data)
 * [pyABF: abf.py](https://github.com/swharden/pyABF/blob/master/src/pyabf/abf.py)
 * [pyABF: abfHeader.py](https://github.com/swharden/pyABF/blob/master/src/pyabf/abfHeader.py)
